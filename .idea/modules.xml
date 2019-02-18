@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gmall-list-service/gmall-list-service.iml" filepath="$PROJECT_DIR$/gmall-list-service/gmall-list-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-service-util/gmall-service-util.iml" filepath="$PROJECT_DIR$/gmall-service-util/gmall-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-zookeeper-demo/gmall-zookeeper-demo.iml" filepath="$PROJECT_DIR$/gmall-zookeeper-demo/gmall-zookeeper-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea180925.iml" filepath="$PROJECT_DIR$/idea180925.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juc/juc.iml" filepath="$PROJECT_DIR$/juc/juc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdemo1/testdemo1.iml" filepath="$PROJECT_DIR$/testdemo1/testdemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testidea/testidea.iml" filepath="$PROJECT_DIR$/testidea/testidea.iml" />
+    </modules>
+  </component>
+</project>

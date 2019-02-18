@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gmall-list-service" />
+        <module name="gmall-service-util" />
+        <module name="gmall-zookeeper-demo" />
+        <module name="idea180925" />
+        <module name="juc" />
+        <module name="testdemo1" />
+        <module name="testidea" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gmall-list-service" target="1.8" />
+      <module name="gmall-service-util" target="1.8" />
+      <module name="gmall-zookeeper-demo" target="1.8" />
+      <module name="idea180925" target="1.8" />
+      <module name="juc" target="1.8" />
+      <module name="multithread" target="1.8" />
+      <module name="testdemo1" target="1.6" />
+      <module name="testidea" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

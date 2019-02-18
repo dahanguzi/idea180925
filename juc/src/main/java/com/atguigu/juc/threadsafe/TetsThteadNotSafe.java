@@ -15,7 +15,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 public class TetsThteadNotSafe {
     public static void main(String[] args) {
         List list = new CopyOnWriteArrayList();
-        for(int i = 1;i<=40;i++){
+        for(int i = 1;i<=20;i++){
             new Thread(()->{
                 list.add(UUID.randomUUID().toString().substring(0,4));
                 System.out.println(list);
